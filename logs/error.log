@@ -21,3 +21,9 @@
 2019/12/17 12:41:22 [error] 23424#21444: *13 "E:\nginx-1.12.2\nginx-1.12.2/html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
 2019/12/17 12:41:44 [error] 23424#21444: *13 "E:\nginx-1.12.2\nginx-1.12.2/html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
 2019/12/17 12:41:45 [error] 23424#21444: *13 "E:\nginx-1.12.2\nginx-1.12.2/html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2019/12/17 12:48:30 [crit] 24944#24964: CreateProcess("E:\nginx-1.12.2\nginx-1.12.2\nginx.exe") failed (2: The system cannot find the file specified)
+2019/12/17 12:48:30 [alert] 24944#24964: could not respawn worker
+2019/12/17 13:47:51 [error] 15276#7164: *1 CreateFile() "E:\windows-nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2019/12/17 13:53:40 [notice] 16088#3888: signal process started
+2019/12/17 13:53:54 [error] 16204#10076: *4 CreateFile() "E:\windows-nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.6.111, server: 192.168.6.111, request: "GET /favicon.ico HTTP/1.1", host: "192.168.6.111:8888", referrer: "http://192.168.6.111:8888/"
+2019/12/17 13:54:09 [error] 16204#10076: *6 CreateFile() "E:\windows-nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.6.133, server: 192.168.6.111, request: "GET /favicon.ico HTTP/1.1", host: "192.168.6.111:8888", referrer: "http://192.168.6.111:8888/"
