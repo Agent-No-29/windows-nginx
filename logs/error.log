@@ -1,0 +1,23 @@
+2019/12/16 17:51:35 [emerg] 9956#19808: CreateFile() "C:\Users\ÂíÓ¨Ó¨\Desktop\nginx-1.12.2\nginx-1.12.2/conf/nginx.conf" failed (3: The system cannot find the path specified)
+2019/12/16 17:54:02 [emerg] 24876#8164: CreateFile() "C:\Users\ÂíÓ¨Ó¨\Desktop\nginx-1.12.2\nginx-1.12.2/conf/nginx.conf" failed (3: The system cannot find the path specified)
+2019/12/16 17:56:02 [emerg] 17480#25116: CreateFile() "C:\Users\ÂíÓ¨Ó¨\Desktop\nginx-1.12.2\nginx-1.12.2/conf/nginx.conf" failed (3: The system cannot find the path specified)
+2019/12/16 17:56:05 [emerg] 22020#16632: CreateFile() "C:\Users\ÂíÓ¨Ó¨\Desktop\nginx-1.12.2\nginx-1.12.2/conf/nginx.conf" failed (3: The system cannot find the path specified)
+2019/12/17 09:25:56 [error] 23424#21444: *1 CreateFile() "E:\nginx-1.12.2\nginx-1.12.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2019/12/17 11:24:54 [notice] 11496#25612: signal process started
+2019/12/17 11:25:04 [notice] 16308#23200: signal process started
+2019/12/17 11:25:10 [emerg] 25624#22052: CreateFile() "E:/path/to/nginx.conf" failed (3: The system cannot find the path specified)
+2019/12/17 11:25:55 [emerg] 26160#8928: CreateFile() "E:/nginx/nginx.conf" failed (3: The system cannot find the path specified)
+2019/12/17 11:26:10 [emerg] 25660#19444: CreateFile() "./nginx/nginx.conf" failed (3: The system cannot find the path specified)
+2019/12/17 11:27:33 [notice] 25828#25900: signal process started
+2019/12/17 11:27:56 [notice] 25716#25748: signal process started
+2019/12/17 11:27:56 [error] 25716#25748: CreateFile() "E:\nginx-1.12.2\nginx-1.12.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2019/12/17 11:28:10 [notice] 8512#26540: signal process started
+2019/12/17 12:40:57 [error] 23424#21444: *13 "E:\nginx-1.12.2\nginx-1.12.2/html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2019/12/17 12:41:06 [error] 23424#21444: *13 "E:\nginx-1.12.2\nginx-1.12.2/html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2019/12/17 12:41:08 [error] 23424#21444: *13 "E:\nginx-1.12.2\nginx-1.12.2/html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2019/12/17 12:41:08 [error] 23424#21444: *13 "E:\nginx-1.12.2\nginx-1.12.2/html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2019/12/17 12:41:09 [error] 23424#21444: *13 "E:\nginx-1.12.2\nginx-1.12.2/html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2019/12/17 12:41:10 [error] 23424#21444: *13 "E:\nginx-1.12.2\nginx-1.12.2/html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2019/12/17 12:41:22 [error] 23424#21444: *13 "E:\nginx-1.12.2\nginx-1.12.2/html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2019/12/17 12:41:44 [error] 23424#21444: *13 "E:\nginx-1.12.2\nginx-1.12.2/html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2019/12/17 12:41:45 [error] 23424#21444: *13 "E:\nginx-1.12.2\nginx-1.12.2/html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
